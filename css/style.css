@@ -33,7 +33,7 @@ h2 {
 /* Responsive */
 @media (min-width: 800px) {
   .keys {
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(100, 1fr);
     align-items: center;
     justify-content: center;
   }
